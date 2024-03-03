@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709435456 source:c:\users\master\desktop\fatec\algoritmos e lógica de programação\aaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
